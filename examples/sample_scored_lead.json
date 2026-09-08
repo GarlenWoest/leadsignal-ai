@@ -1,0 +1,17 @@
+{
+  "lead_id": "L0051",
+  "score": "100",
+  "tier": "Hot",
+  "fit_reasons": [
+    "Industry SaaS matches ICP",
+    "980 employees in target range",
+    "United States is a target region",
+    "Intent signals: raised, series, new office"
+  ],
+  "risks": [],
+  "recommended_action": "Route to AE for same-day outreach",
+  "draft_email": "Hi there \u2014 congrats on the recent raise. Teams like yours in SaaS use us to cut manual reporting time. Worth a quick 15 minutes this week?",
+  "scored_by": "offline",
+  "company": "SAA-2435",
+  "industry": "SaaS"
+}

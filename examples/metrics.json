@@ -1,0 +1,15 @@
+{
+  "n": 400,
+  "precision": 0.671,
+  "recall": 0.779,
+  "f1": 0.721,
+  "confusion": {
+    "tp": 102,
+    "fp": 50,
+    "fn": 29,
+    "tn": 219
+  },
+  "top_decile_conversion_rate": 0.85,
+  "base_rate": 0.328,
+  "scored_by": "offline"
+}
