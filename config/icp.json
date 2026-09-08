@@ -1,0 +1,17 @@
+{
+  "name": "Mid-market B2B SaaS — ideal customer profile",
+  "target_industries": ["SaaS", "Fintech", "Healthtech", "E-commerce",
+                        "Logistics", "Cybersecurity", "MarTech"],
+  "employee_range": [50, 2000],
+  "target_regions": ["United States", "Canada", "United Kingdom", "Germany",
+                     "Netherlands"],
+  "intent_signals": ["hiring", "expanding", "raised", "series", "migrating",
+                     "scaling", "new office", "integration", "compliance",
+                     "modernizing", "replacing"],
+  "disqualifiers": {
+    "industries": ["Government", "Nonprofit"],
+    "max_employees": 20000,
+    "blocked_regions": ["Sanctioned Region"]
+  },
+  "weights": {"industry": 0.35, "size": 0.20, "region": 0.15, "intent": 0.30}
+}
